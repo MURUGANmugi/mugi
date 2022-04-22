@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "Spring.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.username'"
+  },
+  {
+    "name": "Spring.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.url'"
+  },
+  {
+    "name": "Spring.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.password'"
+  },
+  {
+    "name": "Spring.jpa.opn-in-view",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jpa.opn-in-view'"
+  },
+  {
+    "name": "Spring.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jpa.hibernate.ddl-auto'"
+  }
+]}
